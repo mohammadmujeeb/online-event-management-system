@@ -1,0 +1,99 @@
+body
+{
+	background-image: url("../img/imgbg.jpg");
+	margin: 100px 0;
+	font-family: Agency FB;
+	font-size: 20px;
+	color: white;
+	background-size: cover;
+}
+h1
+{
+	color: white;
+}
+label
+{
+	margin-bottom: 15px;
+}
+.logo
+{
+	font-size: 60px;
+	font-family: dodger;
+}
+.mybtn
+{
+	background-color: #19f4f6;
+	border-color: black;
+	color: black;
+	font-weight: bold;
+}
+.myform
+{
+	border: 2px solid white;
+	border-radius: 15px;
+	padding: 30px;
+}
+.mylink
+{
+	color: red;
+}
+.mylink2
+{
+	color: white;
+	font-size: 22px;
+	text-decoration: underline;
+}
+.mylink2:hover
+{
+	color: blue;
+	font-size: 24px;
+}
+.mylink:hover
+{
+	color: white;
+	text-decoration: none;
+}
+.myclass
+{
+	border: 1px solid white;
+}
+.mybtn:hover
+{
+	background-color: #19f4f6;
+	border-color: black;
+	color: white;
+	font-weight: bold;
+}
+.sslink
+{
+	color: #19f4f6;
+}
+.sslink:hover
+{
+	color: black;
+}
+.sslink1
+{
+	color: white;
+}
+.sslink1:hover
+{
+	color: #19f4f6;
+}
+.foot{
+    position: fixed;
+    padding: 5px;
+    height: 30px;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    text-align: center; 
+}
+.siddhantsontakke
+{
+    color: blue;
+}
+.siddhantsontakke1
+{
+    color: #111;
+}

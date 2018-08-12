@@ -1,0 +1,33 @@
+body
+{
+	background-image: url('../img/imgbg3.jpg');
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+.foot{
+    position: fixed;
+    padding: 5px;
+    height: 30px;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    text-align: center; 
+}
+.myimg:hover
+{
+	border-radius: 10%;
+	border: 5px solid grey;
+}
+.myform
+{
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 30px;
+}
+.siddhantsontakke
+{
+    color: blue;
+}
+.borderless td, .borderless th {
+    border: none;
+}
